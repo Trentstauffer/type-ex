@@ -1,7 +1,19 @@
 /* Your Website Styles */
 
+body {
+	font-family: 'Lato', sans-serif;
+	background-image: url("../img/upfeathers.png");
 
-/* Show Grid */
-.showgrid {
+}
+p{
+	color:#042338;
+}
+h1{
+	color:#69A28F;
+}
+h3{
+	color:#69A28F;
+}
+/* Show Grid */ {
 	background: url("../img/grid-bg.png") repeat-y;
 }
